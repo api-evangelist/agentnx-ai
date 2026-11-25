@@ -66,7 +66,7 @@
 
 AgentNX provides AI-driven voice agents for enterprise and government operations, offering pilot-first pricing, secure data handling, and customizable workflows. Their platform demonstrates controlled demos, integrates with Deepgram for transcription, and supports regulated environments with FedRAMP path and NIST mapping.
 
-**Areas:** AI · Enterprise · Government · VoiceAgents · Security · Company
+**Areas:** Artificial Intelligence · Enterprise · Government · Voice Agents · Security · Company
 
 ## AgentNX on APIs.io
 
@@ -84,15 +84,15 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentnx Ai Domain Security](https://apis.io/security/agentnx-ai/agentnx-ai-domain-security/)
-- [Agentnx Ai Trust Center](https://apis.io/security/agentnx-ai/agentnx-ai-trust-center/)
-- [Agentnx Ai Vulnerability Disclosure](https://apis.io/security/agentnx-ai/agentnx-ai-vulnerability-disclosure/)
+- [AgentNX Domain Security](https://apis.io/security/agentnx-ai/agentnx-ai-domain-security/)
+- [AgentNX Trust Center](https://apis.io/security/agentnx-ai/agentnx-ai-trust-center/)
+- [AgentNX Vulnerability Disclosure](https://apis.io/security/agentnx-ai/agentnx-ai-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentnx Ai Plans Pricing](https://apis.io/plans/agentnx-ai/agentnx-ai-plans-pricing/)
+- [AgentNX Plans Pricing](https://apis.io/plans/agentnx-ai/agentnx-ai-plans-pricing/)
 
 ## Where to find this API
 
@@ -105,25 +105,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 18.3** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 18.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 67.9 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 10.5 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 0.0 |
-| Access clarity | 54.7 |
+| Access clarity | 51.1 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 1.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -132,7 +132,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | — |
 | Well Known Catalog | — |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | — |
@@ -141,6 +141,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 15.5** — Government & Public Sector
 
